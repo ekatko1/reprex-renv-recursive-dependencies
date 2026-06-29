@@ -1,0 +1,10 @@
+---
+title: "Report"
+format: html
+---
+
+```{r}
+box::use(R/module[get_hi_dist])
+
+get_hi_dist()
+```
